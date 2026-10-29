@@ -1,0 +1,31 @@
+.salom1{
+    display: flex;
+    margin-left: 200px;
+}
+.salom3{
+    margin-left: 200px;
+}
+.salom4{
+    margin-top: -50px;
+    margin-left: 200px;
+}
+.salom5{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.salom6{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.salom7{
+    margin-top: -50px;
+  margin-left: 100px;
+}
+.salom2{
+    background: #23A6F0;
+    color: white;
+    padding: 13px 22px;
+    border-radius: 7px;
+    margin-top: -50px;
+    margin-left: 200px;
+}
