@@ -1,3 +1,8 @@
+ .salom{
+    background-color: #252B42;
+    color: white;
+    padding: 20px 30px;
+ }
 .salom1{
     display: flex;
     margin-left: 200px;
@@ -28,4 +33,126 @@
     border-radius: 7px;
     margin-top: -50px;
     margin-left: 200px;
+}
+.name{
+    display: flex;
+    justify-content: space-around;
+}
+.salom9{
+   font-size: 50px;
+   margin-top: 100px;
+   margin-left: 100px;
+}
+.salom10{
+    margin-left: 100px;
+    color: grey;
+}
+.salom11{
+        background: #23A6F0;
+    color: white;
+    padding: 13px 22px;
+    border-radius: 7px;
+    margin-left: 100px;
+}
+.salom13{
+    font-size: 40px;
+    margin-left: 500px;
+}
+.salom14{
+    margin-left: 500px;
+    color: grey;
+}
+.salom16{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #252B42;
+}
+.salom17{
+    background-color: #252B42;
+}
+.salom18{
+    color: white;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.salom19{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(232, 225, 225);
+}
+.salom20{
+    margin-top: 100px;
+   margin-left: 350px;
+}
+.salom22{
+    color: white;
+      font-size: 40px;
+    margin-top: 100px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.salom23{
+    color: rgb(234, 226, 226);
+  margin-left: 600px;
+}
+.salom24{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.salom21{
+    background-color: #252B42;
+}
+.salom26{
+      display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.salom26{
+    color: white;
+    font-size: 40px;
+}
+.salom27{
+    color: rgb(224, 219, 219);
+    margin-left: 550px;
+}
+.salom28{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.salom25{
+    background-color: #252B42;
+}
+.salom30{
+    color: white;
+    font-size: 40px;
+}
+.salom29{
+    background-color: #252B42;
+    margin-top: 100px;
+
+}
+.salom31{
+    margin-top: -200px;
+    margin-left: 700px;
+}
+.salom32{
+    color: rgb(203, 197, 197);
+}
+.salom33{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.salom36{
+    margin-top: -100px;
+    margin-left: 300px;
+}
+.salom37{
+    margin-top: -150px;
+    margin-left: 600px;
 }
