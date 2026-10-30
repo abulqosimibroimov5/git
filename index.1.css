@@ -1,4 +1,7 @@
- .salom{
+.name{
+    background-color: #252B42;
+}
+.salom{
     background-color: #252B42;
     color: white;
     padding: 20px 30px;
@@ -39,6 +42,7 @@
     justify-content: space-around;
 }
 .salom9{
+    color: white;
    font-size: 50px;
    margin-top: 100px;
    margin-left: 100px;
@@ -54,7 +58,11 @@
     border-radius: 7px;
     margin-left: 100px;
 }
+.salom12{
+    background-color: #252B42;
+}
 .salom13{
+    color: white;
     font-size: 40px;
     margin-left: 500px;
 }
@@ -148,11 +156,113 @@
     margin-left: 300px;
     margin-top: 100px;
 }
+.salom35{
+    background-color: #252B42;
+}
 .salom36{
-    margin-top: -100px;
+    margin-top: -150px;
     margin-left: 300px;
 }
 .salom37{
     margin-top: -150px;
     margin-left: 600px;
+}
+.salom38{
+    margin-top: -150px;
+    margin-left: 900px;
+}
+.salom40{
+    color: white;
+}
+.salom41{
+    color: rgb(218, 214, 214);
+}
+@media (max-width: 500px) {
+
+    .salom {
+        padding: 15px;
+    }
+
+    .salom1 {
+        margin-left: 0;
+        flex-direction: column;
+    }
+
+    .salom3,
+    .salom4,
+    .salom5,
+    .salom6,
+    .salom7,
+    .salom2 {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .name {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .salom9 {
+        font-size: 32px;
+        margin: 40px 20px;
+    }
+
+    .salom10 {
+        margin: 20px;
+    }
+
+    .salom11 {
+        margin-left: 20px;
+    }
+
+    .salom13,
+    .salom14,
+    .salom23,
+    .salom27 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .salom13,
+    .salom26 {
+        font-size: 30px;
+    }
+
+    .salom16 {
+        flex-direction: column;
+    }
+
+    .salom18,
+    .salom22 {
+        font-size: 30px;
+        margin-top: 50px;
+    }
+
+    .salom19 {
+        text-align: center;
+    }
+
+    .salom20,
+    .salom24,
+    .salom28,
+    .salom33,
+    .salom36,
+    .salom37 {
+        margin: 30px auto;
+        max-width: 100%;
+    }
+
+    .salom31 {
+        margin: 30px 20px;
+    }
+
+    .salom30 {
+        font-size: 30px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
 }
