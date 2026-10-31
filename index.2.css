@@ -1,0 +1,19 @@
+.salom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+.salom3{
+     background: #3BB96D;
+    color: white;
+    padding: 13px 22px;
+    border-radius: 30px;
+}
+.salom4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-left: 50px;
+}
